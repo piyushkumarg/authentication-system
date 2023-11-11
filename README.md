@@ -61,13 +61,13 @@ This is a basic authentication system API implemented using Node.js, Express, an
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/authentication-system-api.git
+   git clone https://github.com/piyushkumarg/authentication-system.git
    ```
 
 2. Change into the project directory:
 
    ```bash
-   cd authentication-system-api
+   cd authentication-system
    ```
 
 3. Install dependencies:
@@ -96,4 +96,5 @@ This is a basic authentication system API implemented using Node.js, Express, an
    ```
 
 2. Use your preferred API testing tool (e.g., Postman) to test the endpoints.
+
 
